@@ -1,4 +1,5 @@
 <h1 align="center">Hi , I'm Javier Mendez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<picture align="center"> <img align="right" src="https://cdn.pixabay.com/photo/2021/10/11/17/36/technology-6701404_1280.jpg" width = 900px></picture>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0D2F3E&width=1020&height=100&lines=%22La+ciencia+de+datos+es+el+arte+de+convertir+los+datos+en+acciones.%22;DJ+Patil+(Cient%C3%ADfico+de+datos)" alt="Typing SVG" /></a>
 
@@ -10,11 +11,11 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-- :Aspirante a ingeniero de datos 
-- :Finalice el bootcam ciencia de datos en tripleten 
-- :Me gusta el analisis predictivo de los datos y descubrir los patrones y la relacion de los datos 
-- :las tecnologias que utilizo son Python, sql. 
-- :Actualmente estoy abierto para una nueva oportunidad de trabajo.
+-  Aspirante a ingeniero de datos 
+-  Finalice el bootcam ciencia de datos en tripleten 
+-  Me gusta el analisis predictivo de los datos y descubrir los patrones y la relacion de los datos 
+-  las tecnologias que utilizo son Python, sql. 
+- Actualmente estoy abierto para una nueva oportunidad de trabajo.
 
 
 
@@ -34,7 +35,6 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
 <p align="center"> 
- Lenguaje de programación
   &emsp;
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
@@ -45,7 +45,7 @@
 <p align="center"> 
   &emsp; 
   <a href="https://pandas.pydata.org/" target="_blank"> 
-   img alt="Static Badge" src="https://img.shields.io/badge/Pandas-black">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-black">
   </a>   
   &emsp;
   <a href="https://numpy.org/" target="_blank">
@@ -70,8 +70,7 @@
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
- 
-    &emsp;
+  &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
